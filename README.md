@@ -25,7 +25,7 @@ This repository contains code for detecting and recognizing sign language gestur
 
     Similarly, create folders for other letters or gestures as needed.
 
-4. **Capture Hand Images**: Run the main script (`main.py` or any other relevant script) to capture hand images. Press the 's' key to capture images of the hand gestures. Images will be saved in the respective folders you created earlier.
+4. **Capture Hand Images**: Run the data collection (`data collection.py` or any other relevant script) to capture hand images. Press the 's' key to capture images of the hand gestures. Images will be saved in the respective folders you created earlier.
 
 5. **Training the Model**: Once you have captured enough hand gesture images, you need to train a machine learning model. You can use Google's Teachable Machine or any other suitable tool for this purpose. Train the model using the captured images and download the trained model as a Keras model file.
 
